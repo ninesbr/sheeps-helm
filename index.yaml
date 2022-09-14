@@ -3,12 +3,12 @@ entries:
   sheeps:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T14:40:09.27569916-03:00"
+    created: "2022-09-14T16:08:37.360041598-03:00"
     description: A Helm chart for Kubernetes
-    digest: 57d9e9d7f69f9d0b6f885b5ed391565b2f35d39997abb5c2d8e8e526be181720
+    digest: 567b20ab2210bbb423f2f21bb812a614bf57b2f174213b6547aff2d51ef7205a
     name: sheeps
     type: application
     urls:
     - https://ninesbr.github.io/sheeps-helm/sheeps-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-14T14:40:09.27496794-03:00"
+generated: "2022-09-14T16:08:37.359231675-03:00"
